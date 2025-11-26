@@ -1,0 +1,9 @@
+mesa
+networkx
+numpy
+pandas
+scipy
+scikit-learn
+ultralytics
+opencv-python
+matplotlib
